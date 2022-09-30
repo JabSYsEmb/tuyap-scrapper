@@ -1,0 +1,4 @@
+node_modules/
+compa*.json
+package-lock.json
+
